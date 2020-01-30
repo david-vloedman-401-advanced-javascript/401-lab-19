@@ -5,24 +5,23 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/david-vloedman-401-advanced-javascript/401-lab-19/pull/1)
+* [travis](https://www.travis-ci.com/david-vloedman-401-advanced-javascript/401-lab-19)
+
 
 #### Documentation
 
 * [JSDocs](./docs/index.html)
 
 ### Setup
-#### `.env` requirements (where applicable)
 
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
 
 #### How to initialize/run your server app (where applicable)
 
-* 'npm run'
+* node cfps-server.js
+* node app.js
+* node flowers-r-us.js
+* node acme-widgets.js
 
   
 #### Tests
@@ -31,4 +30,4 @@
 
 #### UML
 
-![](./assets/x.jpg)
+![](./assets/lab19.png)
