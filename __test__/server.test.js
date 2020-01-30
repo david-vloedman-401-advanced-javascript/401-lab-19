@@ -4,7 +4,7 @@ const {server} = require('../lib/cfps-server');
 
 const superTest = require('supertest');
 
-const mock = superTest(server);
+//const mock = superTest(server);
 
 
 xdescribe('Testing the HTTP server', ()=>{
